@@ -5,9 +5,9 @@
  * function main - the entry point
  * @void: no parameters
  *
- * description : writes the string Programming is like building a multilingual puzzle to the standard output
+ * description : writes Programming is like building a multilingual puzzle
  *
- * Rturn: 0 
+ * Rturn: 0
  */
 int main(void)
 {
