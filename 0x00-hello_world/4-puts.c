@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * function main - the entry point
+ * main - the entry point
  * @void: no parameters
  *
  * description : writes Programming is like building a multilingual puzzle
