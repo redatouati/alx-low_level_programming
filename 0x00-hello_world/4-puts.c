@@ -7,7 +7,7 @@
  *
  * description : writes Programming is like building a multilingual puzzle
  *
- * Rturn: 0
+ * Return: 0
  */
 int main(void)
 {
