@@ -13,9 +13,10 @@
 int main(void)
 {
 	int n;
-
-	for (n = 0; n < 10; n++)
-		putchar('0' + n);
-sh: 1: :wq: not found
+	char ch[8] = "abcdef";
+	
+	for (n = 0; n < 16; n++)
+		putchar('\x', n);
+	putchar('\n');
 	return (0);
 }

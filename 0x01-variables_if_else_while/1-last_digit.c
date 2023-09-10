@@ -6,8 +6,8 @@
  * main - the entry point
  * @void: no parameters
  *
- * description : writes Programming is like building a multilingual puzzle
- *
+ * description : writes if last gigit of n is greater than 5, 	
+ * less than 6 and not 0, 0 
  * Return: 0
  */
 int main(void)
