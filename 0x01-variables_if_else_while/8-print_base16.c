@@ -18,13 +18,13 @@ int main(void)
 	n = 0;
 	c = 'a';
 	while (n < 10)
-	{	
+	{
 		putchar('0' + n);
 		++n;
 	}
 	while (c < 'g')
 	{
- 		putchar(c);
+		putchar(c);
 		++c;
 	}
 	putchar('\n');
