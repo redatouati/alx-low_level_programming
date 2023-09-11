@@ -13,10 +13,13 @@
 int main(void)
 {
 	int n;
-	char ch[8] = "abcdef";
 	
-	for (n = 0; n < 16; n++)
-		putchar('\x', n);
+	n = 0;
+	while (n < 16)
+	{	
+		putchar('0' + n);
+		++n;
+	}	
 	putchar('\n');
 	return (0);
 }
