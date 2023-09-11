@@ -13,13 +13,20 @@
 int main(void)
 {
 	int n;
-	
+	int c;
+
 	n = 0;
-	while (n < 16)
+	c = 'a';
+	while (n < 10)
 	{	
 		putchar('0' + n);
 		++n;
-	}	
+	}
+	while (c < 'g')
+	{
+ 		putchar(c);
+		++c;
+	}
 	putchar('\n');
 	return (0);
 }
