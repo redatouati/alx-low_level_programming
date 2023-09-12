@@ -6,7 +6,7 @@
  * no parrams - void
  *
  * Description : calls function prints_putchar
- * Return : 0
+ * Return: 0
  */
 int main(void)
 {
@@ -19,7 +19,7 @@ int main(void)
  * no parrams - void
  *
  * Description : prints _putchar
- * Return : void
+ * Return: void
  */
 void print_putchar(void)
 {
