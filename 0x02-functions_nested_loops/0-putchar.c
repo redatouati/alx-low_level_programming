@@ -19,7 +19,7 @@ int main(void)
  * no parrams - void
  *
  * Description : prints _putchar
- * Return :  void
+ * Return : void
  */
 void print_putchar(void)
 {
