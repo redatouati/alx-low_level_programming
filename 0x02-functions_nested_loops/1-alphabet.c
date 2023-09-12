@@ -21,7 +21,7 @@ int main(void)
  * Description : prints _putchar
  * Return: void
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char c[] = "abcdefghijklmnopqrstuvwxyz\n";
 	int n;
