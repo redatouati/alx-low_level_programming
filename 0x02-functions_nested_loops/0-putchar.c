@@ -11,7 +11,6 @@
 int main(void)
 {
 	print_putchar();
-	putchar('\n');
 	return (0);
 }
 
@@ -20,7 +19,7 @@ int main(void)
  * no parrams - void
  *
  * Description : prints _putchar
- * Return 0
+ * Return :  void
  */
 void print_putchar(void)
 {
