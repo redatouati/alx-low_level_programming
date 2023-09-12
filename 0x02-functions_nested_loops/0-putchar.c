@@ -23,7 +23,7 @@ int main(void)
  */
 void print_putchar(void)
 {
-	char c[] = "_putchar";
+	char c[] = "_putchar\n";
 	int n;
 
 	n = 0;
