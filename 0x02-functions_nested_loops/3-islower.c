@@ -2,6 +2,7 @@
 
 /**
 * _islower - checks lowercase.
+* @c: character to be verified.
 *
 * Return: Always 0.
 */
